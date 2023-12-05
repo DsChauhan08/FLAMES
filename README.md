@@ -1,0 +1,2 @@
+# FLAMES
+classic FLAMES algorithm
